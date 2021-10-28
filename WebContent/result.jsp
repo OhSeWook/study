@@ -29,7 +29,8 @@
 		<%= result %>
 	</div>
 	
-	test psuh!!~
+	Git Test
+	GitHub Test
 	
 </body>
 </html>
