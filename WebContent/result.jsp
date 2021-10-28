@@ -28,9 +28,8 @@
 	<div>
 		<%= result %>
 	</div>
-	
-	Git Test
-	GitHub Test
+
+	Dev 	
 	
 </body>
 </html>
