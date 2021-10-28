@@ -30,6 +30,7 @@
 	</div>
 	
 	Git Test
+	GitHub Test
 	
 </body>
 </html>
